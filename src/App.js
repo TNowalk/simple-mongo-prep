@@ -91,7 +91,7 @@ function buildOutput(output, depth = 0) {
     if (Object.keys(output).length) {
       for (let key in output) {
         let o = buildOutput(output[key], depth + 1);
-        let s = `"${key}": ${o}, `;
+        let s = `"${key}": ${o},`;
         out.push(s.padStart(s.length + (depth + 1) * 4));
       }
       out[out.length - 1] = out[out.length - 1].slice(0, -1);
