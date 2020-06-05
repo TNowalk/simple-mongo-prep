@@ -119,7 +119,7 @@ function App() {
       console.log(processed);
       setOutput(buildOutput(processed).join("\n"));
     } catch (err) {
-      console.log("Not valid JSON", err);
+      // console.log("Not valid JSON", err);
       setOutput("Please enter a valid JSON string");
     }
   }, [input]);
