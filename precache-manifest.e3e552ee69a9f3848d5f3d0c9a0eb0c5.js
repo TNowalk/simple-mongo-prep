@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d750999280302429bc5c69059659bcf1",
+    "revision": "2502368af26bec38a685c6a794962d98",
     "url": "/simple-mongo-prep/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-mongo-prep/static/css/2.8cff6758.chunk.css"
   },
   {
-    "revision": "c614275f40284525d43d",
+    "revision": "8726279b64ee5cee2154",
     "url": "/simple-mongo-prep/static/css/main.37e3004b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-mongo-prep/static/js/2.8ff726f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c614275f40284525d43d",
-    "url": "/simple-mongo-prep/static/js/main.3fb38466.chunk.js"
+    "revision": "8726279b64ee5cee2154",
+    "url": "/simple-mongo-prep/static/js/main.85f2115d.chunk.js"
   },
   {
     "revision": "33c6b27e880213ff1cd0",
